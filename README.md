@@ -2,12 +2,12 @@
 This Project is for Registration and user can add update delete there data and also able to see all registrations
 
 # Used Tools For Devlop Project
-Java 
-SpringBoot
-Jsp
-Jpa
-Jstl
-Hibernate
+Java ,
+SpringBoot ,
+Jsp,
+Jpa,
+Jstl,
+Hibernate,
 PostgreSql
 
 Note: Once you Run The project table will be create Automatically 
