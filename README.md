@@ -1,7 +1,7 @@
 # userRegistration
 This Project is for Registration and user can add update delete there data and also able to see all registrations
 
-# Used Tools For Devlop Project
+# Used Tools For Develop Project
 Java ,
 SpringBoot ,
 Jsp,
